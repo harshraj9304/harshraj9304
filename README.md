@@ -10,7 +10,7 @@
 
 <!-- ABOUT ME SECTION -->
 <div align="center">
- I am a passionate Full Stack Developer from India 🇮🇳. I love building scalable MERN stack applications and solving complex DSA problems.
+ I am a passionate Full Stack Developer from India . I love building scalable MERN stack applications and solving complex DSA problems.
  <br/><br/>
 </div>
 
